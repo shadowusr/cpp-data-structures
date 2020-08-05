@@ -1,6 +1,7 @@
 cmake-build-debug
 .idea
-buildcd
+build/
+Testing
 
 # Prerequisites
 *.d
